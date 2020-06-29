@@ -1,4 +1,4 @@
-# WeatherSite
+# NotesSite
 
 This project was code in Node.JS version 13.10.1 and NPM libraries 6.13.7
 
